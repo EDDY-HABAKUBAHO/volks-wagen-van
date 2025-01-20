@@ -1,0 +1,139 @@
+.container{
+    width: 548.15px;
+height: 1129.75px;
+top: -629.86px;
+left: -273.85px;
+background: #FFF7ED;
+margin-left: 300px;
+margin-top: 50px;
+
+}
+#all-vans{
+    font-family: Inter;
+font-size: 15.95px;
+font-weight: 500;
+line-height: 22.92px;
+text-align: left;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 119px;
+height: 23px;
+padding-left: 20px;
+}
+#volkswagen{
+    width: 497.32px;
+height: 490.35px;
+top: 215.27px;
+left: 26.91px;
+border-radius: 5px;
+padding-left: 20px;
+padding-bottom: 40px;
+}
+.button1{
+    width: 85.71px;
+height: 33.89px;
+border-radius: 5px;
+border: none;
+opacity: 0px;
+background: #E17654;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 31.66px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #FFEAD0;
+;
+
+
+}
+#simple{
+    width: 58.8px;
+    height: 28.9px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 31.66px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+  
+}
+#rur{
+    padding-left: 20px;
+}
+#Modest{
+    width: 494.33px;
+height: 34px;
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 33.65px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #161616;
+padding-left: 20px;
+
+}
+#day{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 44.15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+padding-left: 20px;
+}
+p{
+    width: 494.33px;
+    height: 120px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23.92px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #161616;
+    padding-left: 20px;
+ 
+}
+#rent-button{
+    width: 494.33px;
+height: 49.83px;
+border-radius: 4.98px;
+background: #FF8C38;
+color: #FFFFFF;
+border: none;
+padding-left: 20px;
+}
+#footer{
+    width: 338.15px;
+height: 14.75px;
+padding: 25.68px 106.28px 25.15px 106px;
+background: #252525;
+margin-left: 300px;
+
+}
+#footer-par{
+    width: 330.87px;
+height: 23.92px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 22.92px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #AAAAAA;
+
+}
+#rent-but{
+    padding-left: 30px;
+    
+}
